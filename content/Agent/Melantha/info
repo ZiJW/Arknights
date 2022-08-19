@@ -1,0 +1,20 @@
+name = Melantha
+elite = 0
+level = 1
+RedeployTime = 70
+cost = 13
+maxresistnum = 1
+trust = 0
+rarity = 3
+place = 1
+totalhp = 1395
+phydefence = 83
+magdefence = 0
+attack = 396
+atktype = 1
+atkradius = 0
+atkspeed = 100
+atkInterval = 1.5
+atkRangeBlockNum = 2
+0 0
+1 0

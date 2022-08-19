@@ -1,0 +1,27 @@
+name = Eyjafjalla
+elite = 0
+level = 1
+RedeployTime = 70
+cost = 19
+maxresistnum = 1
+trust = 0
+rarity = 6
+place = 2
+totalhp = 732
+phydefence = 46
+magdefence = 0.1
+attack = 392
+atktype = 2
+atkradius = 0
+atkspeed = 100
+atkInterval = 1.6
+atkRangeBlockNum = 9
+0 0
+1 0
+2 0
+0 1
+1 1
+2 1
+0 -1
+1 -1
+2 -1

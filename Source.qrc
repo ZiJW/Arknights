@@ -1,0 +1,105 @@
+<RCC>
+    <qresource prefix="/other">
+        <file alias="foo">content/OtherImage/foo.png</file>
+        <file alias="jumpbutton">content/OtherImage/button.jpg</file>
+        <file alias="costerbgf">content/Map/Coster.png</file>
+    </qresource>
+    <qresource prefix="/agent/CHSkadi">
+        <file alias="CHSkadi_2">content/Agent/CHSkadi/CHSkadi_2.png</file>
+    </qresource>
+    <qresource prefix="/map/0-1">
+        <file alias="info">content/Map/0-1/info/info</file>
+        <file alias="0">content/Map/0-1/fig/0.png</file>
+        <file alias="1">content/Map/0-1/fig/1.png</file>
+        <file alias="2">content/Map/0-1/fig/2.png</file>
+        <file alias="3">content/Map/0-1/fig/3.png</file>
+        <file alias="4">content/Map/0-1/fig/4.png</file>
+        <file alias="enemyinfo">content/Map/0-1/info/enemyinfo</file>
+    </qresource>
+    <qresource prefix="/enemy/Soldier">
+        <file alias="Dead">content/Enemy/Soldier/Soldier_Dead.gif</file>
+        <file alias="Atk">content/Enemy/Soldier/Soldier_Atk.gif</file>
+        <file alias="Move">content/Enemy/Soldier/Soldier_Move.gif</file>
+        <file alias="None">content/Enemy/Soldier/Soldier_None.gif</file>
+    </qresource>
+    <qresource prefix="/agent/Melantha">
+        <file alias="Portrait">content/Agent/Melantha/Portrait.png</file>
+        <file alias="Placing">content/Agent/Melantha/Placing.png</file>
+        <file alias="Start">content/Agent/Melantha/Start_front.gif</file>
+        <file alias="Wait">content/Agent/Melantha/Wait_front.gif</file>
+        <file alias="info">content/Agent/Melantha/info</file>
+        <file alias="Atk">content/Agent/Melantha/Attack-front.gif</file>
+        <file alias="Dead">content/Agent/Melantha/Dead_front.gif</file>
+        <file alias="None">content/Agent/Melantha/玫兰莎-默认-战斗正面-Die-x1.gif</file>
+    </qresource>
+    <qresource prefix="/agent/Skadi">
+        <file alias="Atk">content/Agent/Skadi/Attack.gif</file>
+        <file alias="Dead">content/Agent/Skadi/Dead.gif</file>
+        <file alias="info">content/Agent/Skadi/info</file>
+        <file>content/Agent/Skadi/Painting_0.png</file>
+        <file>content/Agent/Skadi/Painting_2.png</file>
+        <file alias="Portrait">content/Agent/Skadi/Portrait.png</file>
+        <file alias="Start">content/Agent/Skadi/Start.gif</file>
+        <file alias="Wait">content/Agent/Skadi/Wait.gif</file>
+        <file alias="Placing">content/Agent/Skadi/Placing.png</file>
+    </qresource>
+    <qresource prefix="/agent/Exusiai">
+        <file alias="Atk">content/Agent/Exusiai/Attack .gif</file>
+        <file alias="Dead">content/Agent/Exusiai/Dead.gif</file>
+        <file alias="info">content/Agent/Exusiai/info</file>
+        <file>content/Agent/Exusiai/Painting_0.png</file>
+        <file alias="Start">content/Agent/Exusiai/Start.gif</file>
+        <file alias="Wait">content/Agent/Exusiai/Wait.gif</file>
+        <file alias="Placing">content/Agent/Exusiai/Placing.png</file>
+        <file alias="Portrait">content/Agent/Exusiai/Portrait.png</file>
+    </qresource>
+    <qresource prefix="/enemy/UAV">
+        <file alias="Atk">content/Enemy/UAV/Atk.gif</file>
+        <file alias="Dead">content/Enemy/UAV/Dead.gif</file>
+        <file alias="Move">content/Enemy/UAV/Move.gif</file>
+        <file alias="None">content/Enemy/UAV/None.gif</file>
+    </qresource>
+    <qresource prefix="/enemy/Ghost">
+        <file alias="Dead">content/Enemy/Ghost/Dead.gif</file>
+        <file alias="Move">content/Enemy/Ghost/Move.gif</file>
+    </qresource>
+    <qresource prefix="/enemy/Warlock">
+        <file alias="Dead">content/Enemy/Warlock/Dead.gif</file>
+        <file alias="Move">content/Enemy/Warlock/Move.gif</file>
+        <file alias="None">content/Enemy/Warlock/None.gif</file>
+        <file alias="Atk">content/Enemy/Warlock/Attack.gif</file>
+    </qresource>
+    <qresource prefix="/agent/Eyjafjalla">
+        <file alias="Atk">content/Agent/Eyjafjalla/Attack.gif</file>
+        <file alias="Dead">content/Agent/Eyjafjalla/Dead.gif</file>
+        <file alias="info">content/Agent/Eyjafjalla/info</file>
+        <file>content/Agent/Eyjafjalla/Painting_1.png</file>
+        <file>content/Agent/Eyjafjalla/Painting_2.png</file>
+        <file alias="Placing">content/Agent/Eyjafjalla/Placing.png</file>
+        <file alias="Portrait">content/Agent/Eyjafjalla/Portrait.png</file>
+        <file alias="Start">content/Agent/Eyjafjalla/Start.gif</file>
+        <file alias="Wait">content/Agent/Eyjafjalla/Wait.gif</file>
+    </qresource>
+    <qresource prefix="/agent/SilverAsh">
+        <file alias="Atk">content/Agent/SliverAsh/Attack.gif</file>
+        <file>content/Agent/SliverAsh/Combat.gif</file>
+        <file alias="Dead">content/Agent/SliverAsh/Dead.gif</file>
+        <file>content/Agent/SliverAsh/Painting_1.png</file>
+        <file>content/Agent/SliverAsh/Painting_2.png</file>
+        <file alias="Placing">content/Agent/SliverAsh/Placing.png</file>
+        <file alias="Portrait">content/Agent/SliverAsh/Portrait.png</file>
+        <file alias="Start">content/Agent/SliverAsh/Start.gif</file>
+        <file alias="info">content/Agent/SliverAsh/info</file>
+        <file alias="Wait">content/Agent/SliverAsh/Wait.gif</file>
+    </qresource>
+    <qresource prefix="/enemy/SKII">
+        <file alias="Atk">content/Enemy/MonsterSKII/Attack.gif</file>
+        <file alias="Dead">content/Enemy/MonsterSKII/Dead.gif</file>
+        <file alias="Move">content/Enemy/MonsterSKII/Move.gif</file>
+        <file alias="None">content/Enemy/MonsterSKII/None.gif</file>
+    </qresource>
+    <qresource prefix="/enemy/Defence4">
+        <file alias="Move">content/Enemy/Defence4/Move.gif</file>
+        <file alias="None">content/Enemy/Defence4/None.gif</file>
+    </qresource>
+</RCC>

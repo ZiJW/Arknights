@@ -1,0 +1,30 @@
+name = SliverAsh
+elite = 0
+level = 1
+RedeployTime = 70
+cost = 18
+maxresistnum = 2
+trust = 0
+rarity = 6
+place = 1
+totalhp = 1075
+phydefence = 189
+magdefence = 0.05
+attack = 297
+atktype = 1
+atkradius = 0
+atkspeed = 100
+atkInterval = 1.3
+atkRangeBlockNum = 12
+0 0
+1 0
+2 0
+3 0
+0 1
+1 1
+2 1
+3 1
+0 -1
+1 -1
+2 -1
+3 -1
